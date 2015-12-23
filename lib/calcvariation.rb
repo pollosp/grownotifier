@@ -1,4 +1,4 @@
-class GetVariation
+class CalcVariation
   def initialize (initial_value,final_value)
     @initial_value = initial_value
     @final_value = final_value
